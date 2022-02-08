@@ -1,0 +1,34 @@
+
+
+.content{
+  background-color: #E9E5D6;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.wrapper{
+    margin: 100px;
+    border-radius: 15px;
+
+}
+
+.price{
+  background-color: #219F94;
+  color: white;
+}
+
+.why-us{
+  background-color: #95D1CC;
+  color: white;
+}
+.join {
+  padding: 20px 12px 12px 40px;
+  background-color: white;
+}
+
+.why-us{
+  padding: 20px 12px 12px 40px;
+}
+.price {
+  padding: 20px 12px 12px 40px;
+}
